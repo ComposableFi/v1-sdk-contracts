@@ -1,6 +1,6 @@
 {
   "name": "@composable-finance/v1-sdk-contracts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "SDK for cross-layer transactions",
   "main": "index.js",
   "types": "dist/types/index.d.ts",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ComposableFi/composable-sdk.git"
+    "url": "git+https://github.com/ComposableFi/v1-sdk-contracts.git"
   },
   "keywords": [
     "sdk",
@@ -47,7 +47,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ComposableFi/composable-sdk/issues"
+    "url": "https://github.com/ComposableFi/v1-sdk-contracts/issues"
   },
   "files": [
     "/contracts/cross-layer",
@@ -56,7 +56,7 @@
     "/contracts/utils/Operations.sol",
     "/contracts/utils/protocol_config/interfaces"
   ],
-  "homepage": "https://github.com/ComposableFi/composable-sdk",
+  "homepage": "https://github.com/ComposableFi/v1-sdk-contracts",
   "devDependencies": {
     "@composable-finance/v1-sdk-defi-protocols": "^1.0.4",
     "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers@^0.3.0-beta.11",
