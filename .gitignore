@@ -1,0 +1,19 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+coverage
+types
+node_modules
+dist
+.env
+.idea
+.vscode
+.vs
+.mocharc.json
+yarn-error.log
+*.code-workspace
+dist_packages
+diamond-proxymodules-correspondence.txt
+abi/
